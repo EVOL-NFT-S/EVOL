@@ -1,12 +1,13 @@
-# 1. Documents
+<h1 align="center">EVOL</h1>
+
+### 1. Documents
 - 📗 Medium: https://medium.com/@escapesalisburync/evol-update-be88b473f103
 - ✈ Telegram: https://t.me/EVOLNFT
 
 
-# 2. Development
+### 2. Development
 
-### .env
-
+- Environment variables
 ```
   SECRET=""
   INFURA_KEY=
